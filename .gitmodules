@@ -1,0 +1,6 @@
+[submodule "SubMod01"]
+	path = SubMod01
+	url = https://github.com/HermitZHQ/GitTest-SubMod01.git
+[submodule "SubMod02"]
+	path = SubMod02
+	url = https://github.com/HermitZHQ/GitTest-SubMod02.git
